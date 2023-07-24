@@ -1,6 +1,6 @@
 # AWS DevOps Projects
 
-![AWS DevOps Projects]([https://your-image-url.com](https://www.canva.com/design/DAFplonYIL4/ccY10NzqFtwkrPISQl26-g/view?utm_content=DAFplonYIL4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+![AWS DevOps Projects](https://www.canva.com/design/DAFplonYIL4/ccY10NzqFtwkrPISQl26-g/view?utm_content=DAFplonYIL4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Table of Contents
 
