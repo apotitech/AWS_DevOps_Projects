@@ -55,9 +55,9 @@ Additionally, you can show your support by following me on [LinkedIn](https://li
 
 If you have any questions, suggestions, or just want to say hello, you can reach me (Lionel) through one of the following channels:
 
-GitHub: @apotitech
-LinkedIn: @apotitech
-Email: lionel@apotitech.com
-Twitter: @lionel_tchami
+- GitHub: @apotitech
+- LinkedIn: @apotitech
+- Email: lionel@apotitech.com
+- Twitter: @lionel_tchami
 
 Thank you for visiting this repository! Happy coding! 🚀
